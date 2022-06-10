@@ -3,5 +3,8 @@ Duno Cydia repo manager
 
 
 
- info
+ Duno Info
 https://cocotweaks.github.io/Duno-Cydia-Repo-Manage/
+
+Purchase
+https://payments.cocotweaks.store/

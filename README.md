@@ -18,6 +18,6 @@ These are all Current Features in Beta v1.8
 - (NEW) Repo API
 - (NEW) Comment System
 - (NEW) Sileo Support
-- More Coming View link below 
+- More Coming Purchase link Below 
 
 [Purchase License Here](https://payments.cocotweaks.store/index.php?_url=/order/duno-cydia-repository-manager)

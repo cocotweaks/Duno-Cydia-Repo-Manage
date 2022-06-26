@@ -1,4 +1,4 @@
-# Duno-Cydia-Repo-Manage
+# Duno-Cydia-Repo-Manager
 
 Duno Cydia Repository Manager
 Duno is a Cydia repo manager is currently in Beta your Welcome to Pre-Order in the link below!

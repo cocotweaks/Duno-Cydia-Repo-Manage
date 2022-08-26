@@ -19,7 +19,7 @@ Duno is a Cydia repo manager
 - (NEW) Sileo Support
 
    **More features coming Soon**
--We Host Your Repo Manager for Monthly Prices
+- We Host Your Repo Manager for Monthly Prices
 
 **Details**
 - Customers will be **Email Notified** when **Duno** receives updates and changes

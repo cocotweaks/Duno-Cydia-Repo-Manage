@@ -29,4 +29,5 @@ Duno is a Cydia repo manager
 - What I'm I paying for ? : Hosting Duno
 
 
+[Demo](https://hub.cocotweaks.com/duno-repo-manager-demo)
 [Purchase Service](https://payments.cocotweaks.store/index.php?_url=/order/duno-cydia-repository-manager)

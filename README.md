@@ -31,4 +31,4 @@ Duno is a Cydia repo manager
 
 [Demo](https://hub.cocotweaks.com/duno-repo-manager-demo)
 
-[Purchase Service](https://duno-softwares.com/)
+[Purchase files](https://duno-softwares.com/)
